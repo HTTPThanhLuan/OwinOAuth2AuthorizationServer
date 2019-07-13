@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+
+<script src="../lib/angular/angular.js"></script>
+<script src="../lib/modules/angular-local-storage/angular-local-storage.min.js"></script>
+<body ng-app="myApp" ng-controller="myCtrl">
+    Login Thành Công <img width="10px" height="10px" src="/assets/img/loading-icon.gif">
+    <script src="../lib/angular/angular.js"></script>
+</body>
+
+<script>
+
+
+    var app = angular.module('myApp', ['LocalStorageModule']);
+
+
+    /////////////////////// dev //////////////////////
+    //     // Người dùng Api
+    //     //var serviceBase = 'http://localhost:20900/';
+    //var serviceBase = 'http://ndapi.psctelecom.com.vn/';
+    //     //var serviceBase = 'http://ndapivirtual.psctelecom.com.vn/';
+   // var serviceBase = 'http://ndapi.hanhchinhcong.khanhhoa.gov.vn/';
+    //
+    //
+    //     //mot cua app
+    //var motCuaApp = 'http://motcuaappdev.psctelecom.com.vn';
+    //     var motucaAppEncode = 'http%3A%2F%2Fmotcuaappdev.psctelecom.com.vn%2Fviews%2FLoginComplete.html';
+    //     //var motCuaApp = ""http://localhost:44077"";
+    //     //var motucaAppEncode = 'http%3A%2F%2Flocalhost:44077%2Fviews%2FLoginComplete.html';
+
+    /////////////////////// that //////////////////////
+    // Người dùng Api
+   // var serviceBase = 'http://localhost:20900/';
+    //var serviceBase = 'http://ndapi.hanhchinhcong.khanhhoa.gov.vn/';
+    //var serviceBase = 'http://ndapivirtual.psctelecom.com.vn/';
+   var serviceBase = 'http://nguoidungapi-v2.azurewebsites.net/';
+    //var serviceBase = 'https://neu-nguoidungapi.azurewebsites.net/';
+
+    //var serviceBase = 'https://neu-nguoidungapi.azurewebsites.net/';
+
+    //mot cua app
+    //var motCuaApp = 'http://motcuaappdev.psctelecom.com.vn';
+    //var motucaAppEncode = 'http%3A%2F%2Fmotcuaappdev.psctelecom.com.vn%2Fviews%2FLoginComplete.html';
+    var motCuaApp = "http://localhost:44077";
+    //var motucaAppEncode = 'http%3A%2F%2Fmotcua.hanhchinhcong.khanhhoa.gov.vn%2Fviews%2FLoginComplete.html';
+    var motucaAppEncode = 'http%3A%2F%2Flocalhost:44077%2Fviews%2FLoginComplete.html';
+
+    app.constant('ngAuthSettings', {
+        apiServiceBaseUri: serviceBase,
+        motCuaApp: motCuaApp,
+        clientId: 'motCuaApp'
+    });
+
+
+    app.controller('myCtrl', function ($scope, $http, ngAuthSettings, localStorageService) {
+
+        $scope.getParameterByName = function (name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+
+        $scope.Initial = function () {
+            var code = $scope.getParameterByName('code');
+
+            //    alert(1);
+
+            if (code) {
+                //var data = "grant_type=authorization_code&code=" + code + "&client_id=" + ngAuthSettings.clientId + "&redirect_uri=" + ngAuthSettings.motCuaApp + "/views/LoginComplete.html"; //+ ngAuthSettings.nguoiDungApp;
+                //  setTimeout(function () {
+                //
+                //     }, 3000);
+                $scope.Set(code);
+            }
+        }
+        var ab = function serializeObj(obj) {
+            var result = [];
+
+            for (var property in obj)
+                result.push(encodeURIComponent(property) + "=" + encodeURIComponent(obj[property]));
+
+            return result.join("&");
+        }
+
+        $scope.Set = function (code) {
+            $http({
+                method: 'POST',
+                url: ngAuthSettings.apiServiceBaseUri + 'token',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                transformRequest: function (obj) {
+                    var str = [];
+                    for (var p in obj)
+                        str.push(encodeURIComponent(p) + "=" + encodeURIComponent(obj[p]));
+                    return str.join("&");
+                },
+                data: {
+                    code: code,
+                    client_id: ngAuthSettings.clientId,
+                    //client_secret:options.client_secret,
+                    
+                    redirect_uri: "http://localhost:44077/views/LoginComplete.html",
+                   //redirect_uri: "http%3a%2f%2flocalhost%3a44077%2fviews%2fLoginComplete.html",
+                   //redirect_uri: "http%3a%2f%2fmotcuaappdev.psctelecom.com.vn%2fviews%2fLoginComplete.html",
+                    grant_type: 'authorization_code'
+                }
+            }).success(function (data, status, headers, config) {
+                localStorageService.set('authorizationData', {
+                    token: data.access_token, userEmail: data.userEmail, userName: data.userName, userId: data.userId, refreshToken: data.refresh_token, useRefreshTokens: true, loaiTaiKhoan: "",
+                    roleName: data.roleName, donViId: parseInt(data.donViId), phongBanId: parseInt(data.phongBanId), DSNguoiUyQuyen: data.dsNguoiUyQuyen, DSNguoiXuLyThay: data.dsNguoiXuLyThay
+                });
+
+                console.log('authorizationData', localStorageService.get('authorizationData'));
+                var authorizationData_roleName = localStorageService.get('authorizationData').roleName;;
+                localStorageService.set('Goitutrangcomplete', true);
+
+                var ReportQuery = localStorageService.get("ReportQuery");
+
+                if (ReportQuery) {
+                    window.location = ReportQuery;
+                    return;
+                }
+                else {
+                    window.location = ngAuthSettings.motCuaApp + '/#/canhan/xulyhoso/?expand=canhan&loaiFilter=cvDangXuLy&page=1&pageSize=5'
+                    return;
+                }
+            }).error(function (data, status, headers, config) {
+            });
+        }
+
+        $scope.Initial();
+
+
+    });
+
+
+</script>
+</html>

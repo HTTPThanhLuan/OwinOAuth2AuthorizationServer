@@ -1,0 +1,15 @@
+﻿1. Katana.Sandbox.WebServer OAuth2 Authorize Error Error: invalid_request
+=> https://stackoverflow.com/questions/31720231/oauth2-asp-net-invalid-grant : https => http
+
+2. https://forums.asp.net/t/2126063.aspx?OWIN+OAuth+2+0+Authorization+Server+IIS+redirect+issue+
+  => dưới local thì chạy ok, khi public lên iis hay azure thì phải chuyển sang https hết.
+  
+3. DotNetOpenAuth.Messaging.ProtocolException: 'Web request to 'https://oauth2server.azurewebsites.net/OAuth/Token' failed.'; An existing connection was forcibly closed by the remote host ; [SocketException (0x2746): An existing connection was forcibly closed by the remote host]
+   System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size) +222
+  => https://stackoverflow.com/questions/46223078/c-sharp-httpclient-an-existing-connection-was-forcibly-closed-by-the-remote-host
+  => Trên azure vào   "TSL/SSL Settings" / "Minimum TLS Version" / "1.0"
+4. Nếu không authorize được ResourceServcer thì nhớ update các package/dll cho cùng phiên bản
+5. Uncaught DOMException: Blocked a frame with origin  from accessing a cross-origin frame. ImplicitGrant in owin authorization server
+  =>khi chạy ImplicitGrant (login bằng popup). chưa xử lý được
+
+

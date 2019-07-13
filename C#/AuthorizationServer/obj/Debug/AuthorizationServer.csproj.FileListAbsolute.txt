@@ -1,0 +1,141 @@
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\AuthorizationServer.dll.config
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\AuthorizationServer.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\AuthorizationServer.pdb
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Google.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Newtonsoft.Json.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Owin.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.Helpers.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.Mvc.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.Razor.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Deployment.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Razor.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Google.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\Newtonsoft.Json.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.Helpers.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.Mvc.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.Razor.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Deployment.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Razor.xml
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.dll
+c:\users\prabht\documents\visual studio 2013\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.csprojResolveAssemblyReference.cache
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\obj\Debug\AuthorizationServer.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\AuthorizationServer.dll.config
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\AuthorizationServer.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\AuthorizationServer.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Cookies.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Google.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Newtonsoft.Json.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Owin.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.Helpers.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.Mvc.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.Razor.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Deployment.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Razor.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Constants.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Cookies.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.Google.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\Newtonsoft.Json.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.Helpers.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.Mvc.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.Razor.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Deployment.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationServer\bin\System.Web.WebPages.Razor.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\AuthorizationServer.dll.config
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\AuthorizationServer.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\AuthorizationServer.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Constants.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.Google.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Web.Infrastructure.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Newtonsoft.Json.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Owin.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Helpers.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Mvc.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Razor.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.WebPages.Deployment.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.WebPages.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.WebPages.Razor.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Constants.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.Google.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Newtonsoft.Json.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Helpers.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Mvc.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Razor.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.WebPages.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.WebPages.Deployment.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.WebPages.Razor.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\obj\Debug\AuthorizationServer.csprojAssemblyReference.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\obj\Debug\AuthorizationServer.csproj.CoreCompileInputs.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\obj\Debug\AuthorizationServer.csproj.CopyComplete
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\obj\Debug\AuthorizationServer.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\obj\Debug\AuthorizationServer.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Cors.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Web.Cors.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Microsoft.Owin.Cors.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Data.Common.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Diagnostics.StackTrace.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Diagnostics.Tracing.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Globalization.Extensions.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.IO.Compression.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Net.Http.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Net.Sockets.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Runtime.Serialization.Primitives.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Security.Cryptography.Algorithms.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Security.SecureString.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Threading.Overlapped.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Xml.XPath.XDocument.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Pipelines.Sockets.Unofficial.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\StackExchange.Redis.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Buffers.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Diagnostics.PerformanceCounter.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.IO.Pipelines.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Memory.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Numerics.Vectors.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Threading.Channels.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Threading.Tasks.Extensions.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\Pipelines.Sockets.Unofficial.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\StackExchange.Redis.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Buffers.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.IO.Pipelines.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Memory.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Numerics.Vectors.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Threading.Channels.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationServer\bin\System.Threading.Tasks.Extensions.xml

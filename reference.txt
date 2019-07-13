@@ -1,0 +1,1 @@
+1. https://blogs.msdn.microsoft.com/benjaminperkins/2016/09/28/how-i-configured-azure-active-directory-into-my-asp-net-mvc-owin-web-application/

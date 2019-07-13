@@ -1,0 +1,6 @@
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.csproj.CoreCompileInputs.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb

@@ -1,0 +1,60 @@
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\obj\Debug\ResourceServer.csprojResolveAssemblyReference.cache
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\ResourceServer.dll.config
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\ResourceServer.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\ResourceServer.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Antlr3.Runtime.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.Security.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Newtonsoft.Json.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Owin.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Net.Http.Formatting.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Web.Http.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Web.Http.WebHost.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Web.Optimization.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\WebGrease.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.Security.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Newtonsoft.Json.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Net.Http.Formatting.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Web.Http.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Web.Http.WebHost.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\System.Web.Optimization.xml
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\bin\Antlr3.Runtime.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\obj\Debug\ResourceServer.dll
+D:\temp\AuthorizationServer\AuthorizationServer\ResourceServer\obj\Debug\ResourceServer.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\ResourceServer.dll.config
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\ResourceServer.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\ResourceServer.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Antlr3.Runtime.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.Security.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Web.Infrastructure.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Newtonsoft.Json.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Owin.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Net.Http.Formatting.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Web.Http.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Web.Http.WebHost.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Web.Optimization.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\WebGrease.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.Security.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Newtonsoft.Json.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Net.Http.Formatting.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Web.Http.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Web.Http.WebHost.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\System.Web.Optimization.xml
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\bin\Antlr3.Runtime.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\obj\Debug\ResourceServer.csproj.CoreCompileInputs.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\obj\Debug\ResourceServer.csproj.CopyComplete
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\obj\Debug\ResourceServer.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\obj\Debug\ResourceServer.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OWIN OAuth 2.0 Authorization Server\C#\ResourceServer\obj\Debug\ResourceServer.csprojAssemblyReference.cache
