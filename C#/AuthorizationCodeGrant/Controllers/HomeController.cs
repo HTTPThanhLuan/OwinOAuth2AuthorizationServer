@@ -57,8 +57,15 @@ namespace AuthorizationCodeGrant.Controllers
                 var body = client.GetStringAsync(new Uri(resourceServerUri, Paths.MePath)).Result;
                 ViewBag.ApiResponse = body;
             }
-          
-                
+            else if (!string.IsNullOrEmpty(Request.Form.Get("submit.CallApiNetCore")))
+            {
+                var resourceServerUri = new Uri(Paths.ResourceServerNetCoreBaseAddress);
+                var client = new HttpClient(_webServerClient.CreateAuthorizingHandler(accessToken));
+                var body = client.GetStringAsync(new Uri(resourceServerUri, Paths.MeNetCorePath)).Result;
+                ViewBag.ApiResponse = body;
+            }
+
+
 
             return View();
         }

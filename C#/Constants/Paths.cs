@@ -13,15 +13,16 @@ namespace Constants
         /// </summary>
        
         //public const string AuthorizationServerBaseAddress = "http://localhost:11625";
-       // public const string AuthorizationServerBaseAddress = "https://localhost:44356";
-         public const string AuthorizationServerBaseAddress = "https://oauth2server.azurewebsites.net";
+        public const string AuthorizationServerBaseAddress = "https://localhost:44356";
+        // public const string AuthorizationServerBaseAddress = "https://oauth2server.azurewebsites.net";
 
         /// <summary>
         /// ResourceServer project should run on this URL
         /// </summary>
-        //public const string ResourceServerBaseAddress = "http://localhost:38385";
-        public const string ResourceServerBaseAddress = "https://auth2resourceserver.azurewebsites.net";
-        
+        public const string ResourceServerBaseAddress = "http://localhost:38385";
+        //public const string ResourceServerBaseAddress = "https://auth2resourceserver.azurewebsites.net";
+
+        public const string ResourceServerNetCoreBaseAddress = "http://localhost:60247";
 
         /// <summary>
         /// ImplicitGrant project should be running on this specific port '38515'
@@ -34,9 +35,9 @@ namespace Constants
         /// AuthorizationCodeGrant project should be running on this URL.
         /// </summary>
         // public const string AuthorizeCodeCallBackPath = "https://localhost:44335/";
-        //public const string AuthorizeCodeCallBackPath = "http://localhost:38500/";
+        public const string AuthorizeCodeCallBackPath = "http://localhost:38500/";
 
-        public const string AuthorizeCodeCallBackPath = "https://authorizationcodegrant.azurewebsites.net/";
+       // public const string AuthorizeCodeCallBackPath = "https://authorizationcodegrant.azurewebsites.net/";
 
 
 
@@ -47,5 +48,6 @@ namespace Constants
         public const string LoginPath = "/Account/Login";
         public const string LogoutPath = "/Account/Logout";
         public const string MePath = "/api/Me";
+        public const string MeNetCorePath = "/api/values";
     }
 }

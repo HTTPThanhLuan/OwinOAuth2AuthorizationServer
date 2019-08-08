@@ -1,4 +1,6 @@
-﻿using Constants;
+﻿using Aloji.JwtSecurity.Options;
+using Aloji.Owin.JwtSecurity;
+using Constants;
 using Microsoft.Owin;
 using Microsoft.Owin.Cors;
 using Microsoft.Owin.Security;
@@ -23,6 +25,8 @@ namespace AuthorizationServer
 
         public void ConfigureAuth(IAppBuilder app)
         {
+
+          
 
             var corsOptions = new CorsOptions
             {
@@ -92,7 +96,14 @@ namespace AuthorizationServer
                 {
                     OnCreate = CreateRefreshToken,
                     OnReceive = ReceiveRefreshToken,
-                }
+                },
+                  AccessTokenFormat = new JwtSecureDataFormat(
+               new JwtSecurityOptions
+               {
+                   Issuer = "12",
+                   IssuerSigningKey = "8E8496D7342EA258526CF6177E04EA7D208E359C95E60CD2A462FC062B9E41B3"
+               })
+
             });
         }
 

@@ -1,0 +1,14 @@
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\bin\Debug\netcoreapp2.2\ResourceServerNetCore.deps.json
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\bin\Debug\netcoreapp2.2\ResourceServerNetCore.runtimeconfig.json
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\bin\Debug\netcoreapp2.2\ResourceServerNetCore.runtimeconfig.dev.json
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\bin\Debug\netcoreapp2.2\ResourceServerNetCore.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\bin\Debug\netcoreapp2.2\ResourceServerNetCore.pdb
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.csprojAssemblyReference.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.csproj.CoreCompileInputs.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.RazorAssemblyInfo.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.RazorAssemblyInfo.cs
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.AssemblyInfoInputs.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.AssemblyInfo.cs
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.RazorTargetAssemblyInfo.cache
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.dll
+D:\PSC-2019\PortalDepartment\06.Owin OAuth\OwinOAuth2AuthorizationServer\C#\ResourceServerNetCore\obj\Debug\netcoreapp2.2\ResourceServerNetCore.pdb
